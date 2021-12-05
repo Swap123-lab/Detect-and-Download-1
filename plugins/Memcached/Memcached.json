@@ -1,0 +1,14 @@
+{
+    "majorVersions": [
+        {
+            "majorVersion": "3.X",
+            "minorVersions": [
+                {
+                    "minorVersion": "3.8.5",
+                    "releaseDate": "July 20, 2020",
+                    "isDownloaded": "TRUE"
+                }
+            ]
+        }
+    ]
+}
